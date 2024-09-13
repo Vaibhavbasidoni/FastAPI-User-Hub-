@@ -9,7 +9,7 @@ database.py: Manages the MongoDB connection and provides the users_collection fo
 
 Setup Instructions
  1. Clone the Repository
- git clone https://github.com/Vaishnavipawar0901/Fastapi-.git
+ git clone https://github.com/Vaibhavbasidoni/FastAPI-User-Hub-.git
  cd Fastapi-
 
  2. Activate Virtual Environment
